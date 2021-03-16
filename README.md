@@ -22,9 +22,9 @@ cadena var1 # "hola" ;
 entero var5 # 23 ;
 
 proceso ;
-si ( 23 == var5 )
+si ( 7 == var5 )
 {
-ver "Analizador semántico" ;
+ver "Tarea Pequeño Compilador" ;
 }
 
 si ( var1 == "hola" )
